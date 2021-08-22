@@ -4,7 +4,7 @@
 - Darth
 - Flutter
 <hr>
-💻 PROJETO
+💻 PROJETO<br>
 O projeto simula o famoso jogo Jokenpô, que consiste em escolher entre pedra, papel ou tesoura. 
 De acordo com o que for escolhido, ele te retorna as seguintes respostas:<br>
 "PARABÉNS! VOCÊ GANHOU!"<br>
