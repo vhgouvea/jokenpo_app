@@ -4,14 +4,14 @@
 - Darth
 - Flutter
 <hr>
-💻 PROJETO
+💻 PROJETO<br>
 O projeto simula o famoso jogo Jokenpô, que consiste em escolher entre pedra, papel ou tesoura. 
 De acordo com o que for escolhido, ele te retorna as seguintes respostas:<br>
 "PARABÉNS! VOCÊ GANHOU!"<br>
 "QUE PENA! VOCÊ PERDEU :("<br>
 "EMPATAMOS...."<br>
 <hr>
-:arrow_right:Como ganhar:
+:arrow_right:Como ganhar:<br>
 Pedra ganha da tesoura <br>
 Tesoura ganha do papel <br>
 Papel ganha da pedra <br>
