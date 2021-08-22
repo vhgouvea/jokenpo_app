@@ -7,7 +7,7 @@ class App extends StatefulWidget {
 }
 
 class _AppState extends State<App> {
-  var mensagem = "Escolha uma opção abaixo:";
+  final mensagem = "Escolha uma opção abaixo:";
   var mensagemVencedora = "Aguardando escolhas....";
   var escolhaComputador = AssetImage("imagens/padrao.png");
   var imagemUsuario = AssetImage("imagens/padrao.png");
@@ -80,7 +80,7 @@ class _AppState extends State<App> {
           Padding(
             padding: EdgeInsets.only(top: 32, bottom: 16),
             child: Text(
-              this.mensagem,
+              "Escolha uma opção abaixo:",
               textAlign: TextAlign.center,
               style: TextStyle(
                   fontSize: 20,
