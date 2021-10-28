@@ -5,7 +5,7 @@
 - Laravel Sanctum
 <hr>
 💻 PROJETO<br>
-O projeto foi feito para fazer um CRUD de produtos e usuários. Para isso foi utilizado o Framework Laravel, e para fazer a geração de tokens para autenticação foi utilizado um pacote interno chamado Laravel Sanctum.
+A função da API é fazer um CRUD de produtos e usuários. Para isso foi utilizado o Framework Laravel, e para a geração de tokens para autenticação foi utilizado um pacote interno do Laravel chamado Laravel Sanctum.
 <hr>
 
 	✔️  Concluído  ✔️
