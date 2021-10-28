@@ -1,12 +1,13 @@
-<h1 align="center">:triangular_flag_on_post: Jogo Jokenpô</h1>
+<h1 align="center">:triangular_flag_on_post: CRUD Laravel API</h1>
 
 👨🏻‍💻 TECNOLOGIAS
 - Laravel
 - Laravel Sanctum
 <hr>
 💻 PROJETO<br>
-O projeto da API foi desenvolvido em Laravel, e foi utilizado o Laravel Sanctum para a geração de tokens.
+O projeto foi feito para fazer um CRUD de produtos e usuários. Para isso foi utilizado o Framework Laravel, e para fazer a geração de tokens para autenticação foi utilizado um pacote interno chamado Laravel Sanctum.
+<hr>
 
-	:heavy_check_mark:  Concluído  :heavy_check_mark:
+	✔️  Concluído  ✔️
 </h4>
 <hr>
