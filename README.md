@@ -11,7 +11,7 @@ De acordo com o que for escolhido, ele te retorna as seguintes respostas:<br>
 "QUE PENA! VOCÊ PERDEU :("<br>
 "EMPATAMOS...."<br>
 <hr>
-:arrow_right:Como ganhar:
+:arrow_right:Como ganhar: <br>
 Pedra ganha da tesoura <br>
 Tesoura ganha do papel <br>
 Papel ganha da pedra <br>
